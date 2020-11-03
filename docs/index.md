@@ -2,7 +2,7 @@
 title-heading: false
 ---
 
-# Edwin Wong here
+# Edwin Wong
 
 I'm a technologist from idea to delivery to refinement.
 
