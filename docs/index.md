@@ -9,5 +9,3 @@ I'm a technologist from idea to delivery to refinement.
 
 * Contact: edwinwongsf@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/edwinsf/)
-* [CV](EdwinWongCV2020.pdf)
-
