@@ -7,5 +7,5 @@ title: false
 
 I'm a technologist from idea to delivery to refinement.
 
-* Contact: edwinwongsf@gmail.com
+* Contact: edwinwongsf at gmail.com
 * [LinkedIn](https://www.linkedin.com/in/edwinsf/)
